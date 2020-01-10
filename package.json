@@ -1,0 +1,29 @@
+{
+  "name": "bugsapi",
+  "version": "1.0.0",
+  "description": "This is an API containing information about different types of insects that can be found in pest control",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewesp/InsectsApi.git"
+  },
+  "keywords": [
+    "Insects",
+    "Bugs",
+    "API",
+    "Pest",
+    "Control"
+  ],
+  "author": "Matthew Esparza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthewesp/InsectsApi/issues"
+  },
+  "homepage": "https://github.com/matthewesp/InsectsApi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
